@@ -8,3 +8,7 @@ h2{color: black;}
 ul{color: black;}
 aside{color: black;}
 img{color: black;}
+.mainimg{width:100%;
+    height:auto;
+    opacity:.3;
+    position: fixed;}
